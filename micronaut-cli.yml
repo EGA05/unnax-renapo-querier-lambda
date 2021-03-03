@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: mx.eliiot
+testFramework: spock
+sourceLanguage: groovy
+buildTool: gradle
+features: [app-name, aws-lambda, aws-lambda-custom-runtime, gradle, groovy, http-client, logback, readme, shade, spock, yaml]
